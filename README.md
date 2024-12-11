@@ -4,7 +4,8 @@ Here's a README for the Password Generator project:
 
 A secure password generator web application that creates strong, customizable passwords based on user preferences.
 
-![Password Generator Preview]![image](https://github.com/user-attachments/assets/3efcd6fc-fcc3-42b5-a6ca-880a10748cc8)
+![Password Generator Preview]![image]![image](https://github.com/user-attachments/assets/b1fe17f4-49eb-44b1-ab59-20ec4ceb86db)
+
 
 
 
