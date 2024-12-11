@@ -4,7 +4,7 @@ Here's a README for the Password Generator project:
 
 A secure password generator web application that creates strong, customizable passwords based on user preferences.
 
-![Password Generator Preview](./assets/images/preview.jpg)
+![Password Generator Preview](https://password-generator-virid-ten.vercel.app/)
 
 ## Features
 
